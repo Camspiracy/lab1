@@ -1,1 +1,1 @@
-# sample-code
+# I craeted the files tried in vain multiple times to commit got that working couldn't get it to commit to ngit hub nearly had a melt down asked fore help got help and got this working realised report only had the text "sample code" in it edited that and didn't even cry once
